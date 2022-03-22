@@ -1,0 +1,8 @@
+.container {
+    padding: 0% 0 1% 0;
+    margin-bottom: 1%;
+}
+.container > form> input, form button {
+    padding: 0.5%;
+    font-size: 1.5em;
+}

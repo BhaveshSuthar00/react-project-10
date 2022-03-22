@@ -1,0 +1,39 @@
+.output_div {
+    font-size: 1.4rem;
+    width : 100%;
+    justify-content : center;
+}
+.output_main {
+    display: flex;
+    width: 50%;
+    margin: auto;
+    padding: 1%;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.output_div1 {
+    width: 60%;
+    text-align: center;
+}
+.output_div1>a {
+    list-style: none;
+    color: black;
+    text-decoration: none;
+}
+.output_div1~div { 
+    width : 20%;
+
+}
+.output_main p {
+    padding: 0%;
+    margin: 0%;
+}
+.output_last { 
+    width : 20%;
+    text-align: right;
+}
+.output_last>button {
+    font-size:21px;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+}

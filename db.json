@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "b04fbeb0-1638-44cb-9178-172743b3d690",
+      "text": "bhavesh",
+      "status": false
+    },
+    {
+      "id": "649d6552-c893-4902-af51-b7fd475f118e",
+      "text": "bharat",
+      "status": false
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
